@@ -1,0 +1,1 @@
+# d22_AWS_Solutions_Architect
